@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="F6lXygc_6NLY8PlQxDrW">
-    <mxGraphModel dx="2018" dy="1393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,61 +122,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-38" value="&lt;h4&gt;A&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="351" y="28" width="56" height="56" as="geometry" />
+          <mxGeometry x="335" y="28" width="56" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-39" target="Fs--lFABOoEZHQ23tQJz-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-39" value="&lt;p&gt;Evaluasi Tingkat Pemahaman Mitra&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="301" y="126" width="156" height="60" as="geometry" />
+          <mxGeometry x="285" y="126" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-40" target="Fs--lFABOoEZHQ23tQJz-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-40" value="&lt;p&gt;Apakah Mitra sudah Mahir&lt;br&gt; Menggunakan Media Identifikasi&lt;br&gt; Penyakit Kelapa Sawit Secara&lt;br&gt; Real-Time sekaligus Marketplace&lt;br&gt; Produk Pertanian Berbasis&lt;br&gt; Android &amp;amp; IOS&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="227" width="255" height="194" as="geometry" />
+          <mxGeometry x="235.5" y="227" width="255" height="194" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-41" target="Fs--lFABOoEZHQ23tQJz-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-41" value="&lt;p&gt;Laporan Tingkat&amp;nbsp;&lt;br&gt;Keberhasilan Mitra&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="276" y="462" width="206" height="60" as="geometry" />
+          <mxGeometry x="260" y="462" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-43" target="Fs--lFABOoEZHQ23tQJz-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-43" value="&lt;p&gt;Implementasi Aplikasi di Lokasi Mitra&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="301" y="563" width="156" height="60" as="geometry" />
+          <mxGeometry x="285" y="563" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-77" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-44" target="Fs--lFABOoEZHQ23tQJz-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-44" value="&lt;p&gt;PublikasiHasil Kegiatan yang telah di terapkan kepada Mitra Melalui Media Sosial&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="758" width="175.5" height="77" as="geometry" />
+          <mxGeometry x="276.5" y="758" width="175.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-45" target="Fs--lFABOoEZHQ23tQJz-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-45" value="&lt;p&gt;Pengurusan Legalitas untuk Mendapatkan Dukungan dari Dinas Perkebunan Kota Makassar&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="655" width="175" height="71" as="geometry" />
+          <mxGeometry x="275.5" y="655" width="175" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-78" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-46" target="Fs--lFABOoEZHQ23tQJz-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-46" value="&lt;p&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Penyusunan Laporan :&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;- Laporan Kemajuan&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;- Laporan Akhir&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;- Artikel Ilmiah&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="867" width="175.5" height="77" as="geometry" />
+          <mxGeometry x="276.5" y="867" width="175.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-47" value="&lt;h4&gt;&lt;font&gt;END&lt;/font&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="323" y="976" width="112" height="58" as="geometry" />
+          <mxGeometry x="307" y="976" width="112" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-48" value="&lt;p&gt;Tahap Persiapan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="544" y="300.5" width="120" height="60" as="geometry" />
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-48" value="&lt;p&gt;Tahap Evaluasi&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="528" y="300.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-49" value="Tahap Keberlanjutan" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="542" y="723" width="120" height="60" as="geometry" />
+          <mxGeometry x="526" y="723" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-50" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="512" y="543" width="37" height="342" as="geometry" />
+          <mxGeometry x="496" y="543" width="37" height="342" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-51" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Fs--lFABOoEZHQ23tQJz-50" source="Fs--lFABOoEZHQ23tQJz-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-55" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="514" y="121" width="37" height="342" as="geometry" />
+          <mxGeometry x="498" y="121" width="37" height="342" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-56" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Fs--lFABOoEZHQ23tQJz-55" source="Fs--lFABOoEZHQ23tQJz-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
