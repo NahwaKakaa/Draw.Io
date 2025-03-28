@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="F6lXygc_6NLY8PlQxDrW">
-    <mxGraphModel dx="2584" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="Fs--lFABOoEZHQ23tQJz-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-8" target="Fs--lFABOoEZHQ23tQJz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-8" value="&lt;p&gt;Pembuatan akun @Sawitron.App di media sosial Instagram dan Tiktok&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-8" value="&lt;p&gt;Pembuatan akun @Go-Wit.App di media sosial Instagram dan Tiktok&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-57" y="429" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-9" target="Fs--lFABOoEZHQ23tQJz-10">
