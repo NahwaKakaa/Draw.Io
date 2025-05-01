@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="F6lXygc_6NLY8PlQxDrW">
-    <mxGraphModel dx="3200" dy="1265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
         <mxCell id="Fs--lFABOoEZHQ23tQJz-41" value="&lt;p&gt;Laporan Tingkat&amp;nbsp;&lt;br&gt;Keberhasilan Mitra&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="260" y="462" width="206" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3j3naUVUS2PDiIZUqtar-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fs--lFABOoEZHQ23tQJz-43" target="Fs--lFABOoEZHQ23tQJz-44">
+        <mxCell id="3j3naUVUS2PDiIZUqtar-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fs--lFABOoEZHQ23tQJz-43" target="Fs--lFABOoEZHQ23tQJz-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-43" value="&lt;p&gt;Implementasi Aplikasi di Lokasi Mitra&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
@@ -167,10 +167,10 @@
           <mxGeometry x="528" y="300.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-49" value="Tahap Keberlanjutan" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="526" y="668.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="522" y="667.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-50" value="" style="group;rotation=-180;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="496" y="655" width="37" height="215" as="geometry" />
+          <mxGeometry x="477" y="654" width="37" height="215" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-51" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Fs--lFABOoEZHQ23tQJz-50" source="Fs--lFABOoEZHQ23tQJz-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
