@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="F6lXygc_6NLY8PlQxDrW">
-    <mxGraphModel dx="2437" dy="1121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3965" dy="1963" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,28 +37,28 @@
         <mxCell id="Fs--lFABOoEZHQ23tQJz-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Fs--lFABOoEZHQ23tQJz-9" target="Fs--lFABOoEZHQ23tQJz-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-9" value="&lt;p&gt;Pengembangan Media Identifikasi Penyakit Pada Pembibitan Main-Nursey Berbasis Artifical Intelligence Secara Real-Time dan Merketplace Produk Kelapa Sawit&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-9" value="&lt;p&gt;Pengembangan Media Identifikasi Penyakit Pada Pembibitan Main-Nursey Berbasis Artifical Intelligence Secara Real-Time dan Merketplace Produk Kelapa Sawit&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E3C800,#CC0000);fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-84" y="549" width="210" height="81" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Fs--lFABOoEZHQ23tQJz-10" target="Fs--lFABOoEZHQ23tQJz-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-10" value="&lt;p&gt;Pembuatan Buku Mitra&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-10" value="&lt;p&gt;Pembuatan Buku Mitra&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E3C800,#CC0000);fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-57" y="669" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-11" value="&lt;p&gt;Sosialisasi&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-11" value="&lt;p&gt;Sosialisasi&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E3C800,#CC0000);fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-57" y="768" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Fs--lFABOoEZHQ23tQJz-12" target="Fs--lFABOoEZHQ23tQJz-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-12" value="&lt;p&gt;Pelatihan dan Pendampingan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-12" value="&lt;p&gt;Pelatihan dan Pendampingan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E3C800,#CC0000);fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-57" y="873" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-13" value="Tahap Persiapan" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-268" y="278" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fs--lFABOoEZHQ23tQJz-14" value="Tahap Pelaksanaan" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="Fs--lFABOoEZHQ23tQJz-14" value="Tahap Pelaksanaan" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=light-dark(#E3C800,#CC0000);fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-268" y="719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fs--lFABOoEZHQ23tQJz-19" value="" style="group" parent="1" vertex="1" connectable="0">
