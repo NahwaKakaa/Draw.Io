@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="Page-1" id="Yv0Tl1XHFK00WdUaMiFT">
-    <mxGraphModel dx="2106" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4254" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1320,34 +1320,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-444" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1505" y="771" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1725" y="842.25" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-445" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kHghbOgyVwqgFKvwWH_L-446" target="kHghbOgyVwqgFKvwWH_L-448" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-446" value="Memilih pegawai yang ingin &lt;br&gt;dihapus dari daftar pegawai" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="867" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1780" y="938.25" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHghbOgyVwqgFKvwWH_L-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kHghbOgyVwqgFKvwWH_L-448" target="kHghbOgyVwqgFKvwWH_L-450" parent="1">
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kHghbOgyVwqgFKvwWH_L-454" target="kHghbOgyVwqgFKvwWH_L-450" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-456" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kHghbOgyVwqgFKvwWH_L-447">
+          <mxGeometry x="-0.1311" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-448" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Sistem meminta konfirmasi penghapusan&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="973" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1780" y="1044.25" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kHghbOgyVwqgFKvwWH_L-450" target="kHghbOgyVwqgFKvwWH_L-452" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kHghbOgyVwqgFKvwWH_L-450" value="Memilih data pegawai yang ingin dipulihkan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="1079" width="210" height="60" as="geometry" />
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-450" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Tampilkan pesan sukses, data dipindahkan ke Recycle Bin&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="1307" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kHghbOgyVwqgFKvwWH_L-452" target="kHghbOgyVwqgFKvwWH_L-453" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-452" value="Sistem menampilan pesan sukses" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="1185" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1780" y="1413" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kHghbOgyVwqgFKvwWH_L-453" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1505" y="1278.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1725" y="1506.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-455" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kHghbOgyVwqgFKvwWH_L-448" target="kHghbOgyVwqgFKvwWH_L-454">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1675" y="1104" as="sourcePoint" />
+            <mxPoint x="-1675" y="1307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kHghbOgyVwqgFKvwWH_L-454" target="kHghbOgyVwqgFKvwWH_L-453">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1520" y="1208" />
+              <mxPoint x="-1520" y="1532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-458" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kHghbOgyVwqgFKvwWH_L-457">
+          <mxGeometry x="-0.1047" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kHghbOgyVwqgFKvwWH_L-454" value="Konfirmasi?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1725" y="1168" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
